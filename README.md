@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ My Skills
+## My Skills
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -21,13 +21,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true
 
 ---
 
-## 💻 Projects
+## Projects
 
 ### File Approval System
 ![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RidDd3bm5vMGNla2tjc2kyZGRtMGkzdmF5NjFwNXQxbml4amM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEhnPVwyJAu5hrgy3w/giphy.gif)
@@ -43,7 +43,7 @@ Check my repositories here: [GitHub Repos](https://github.com/Xxnorsen?tab=repos
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norsen-norelden/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:norsennorelden@gmail.com)

@@ -23,8 +23,9 @@
 
 
 ## GitHub Stats
+![Norsen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true&theme=radical)
 
-https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxnorsen&layout=compact&theme=radical)
 
 ---
 

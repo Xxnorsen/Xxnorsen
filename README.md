@@ -22,13 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-## GitHub Stats
-![Followers](https://img.shields.io/github/followers/Xxnorsen?style=social)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xxnorsen&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true&theme=tokyonight)
-
----
 
 ## Projects
 

@@ -30,7 +30,8 @@ https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true
 ## 💻 Projects
 
 ### File Approval System
-![Demo GIF](https://media.giphy.com/media/3o7TKP7rNQF4lQvK1y/giphy.gif)
+![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RidDd3bm5vMGNla2tjc2kyZGRtMGkzdmF5NjFwNXQxbml4amM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEhnPVwyJAu5hrgy3w/giphy.gif)
+
 - Built with **C#, ASP.NET Core, SQL Server, React**
 - Implements **JWT authentication**, file upload, multi-level approvals
 - Responsive **frontend with React & Vite**  

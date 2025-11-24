@@ -1,4 +1,6 @@
 ## Hi there 👋
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <!--
 **Xxnorsen/Xxnorsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

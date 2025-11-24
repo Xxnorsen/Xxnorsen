@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Norsen Norelden
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=C#+Developer;SQL+Expert;ASP.NET+Developer;Full-stack+Enthusiast;Data+Scientist)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=C%23+Developer;SQL+Expert;ASP.NET+Developer;Full-stack+Enthusiast;Data+Scientist)
+
 
 ---
 

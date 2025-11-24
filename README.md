@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-![Norsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true&theme=radical&count_private=true)
+https://github-readme-stats.vercel.app/api?username=Xxnorsen&show_icons=true
 
 ---
 

@@ -31,6 +31,15 @@
 - Built with **C#, ASP.NET Core, SQL Server, React**
 - Implements **JWT authentication**, file upload, multi-level approvals
 - Responsive **frontend with React & Vite**  
+[![Video Demo](https://github.com/Xxnorsen/Xxnorsen/raw/main/Recording%202025-11-25%20221517.mp4)](https://github.com/Xxnorsen/Xxnorsen/raw/main/Recording%202025-11-25%20221517.mp4)
+
+<video src="https://github.com/Xxnorsen/Xxnorsen/raw/main/Recording%202025-11-25%20221517.mp4"
+       width="600"
+       autoplay
+       loop
+       muted
+       playsinline>
+</video>
 
 ---
 

@@ -24,6 +24,8 @@
 
 ## Projects
 
+## Projects
+
 ### File Approval System
 ![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RidDd3bm5vMGNla2tjc2kyZGRtMGkzdmF5NjFwNXQxbml4amM4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cEhnPVwyJAu5hrgy3w/giphy.gif)
 
@@ -31,8 +33,19 @@
 - Implements **JWT authentication**, file upload, multi-level approvals
 - Responsive **frontend with React & Vite**  
 
-
 > Click the badge above to watch the project demo on VEED.io
+
+---
+
+### Clinic System
+![Demo GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnloN3QxOGc2b3ViNzR1YzRmZ2Y4YmI3bWgzcm1kcHBsenY2bmYzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZnbhTEmvhqSD1j8C1D/giphy.gif)
+
+- Built with **C#, ASP.NET Core, SQL Server, React**
+- Full **appointment booking system** with treatments, doctors, availability, and patient management
+- Includes **roles**: Admin, Registrar, Doctor, Patient
+- Features **JWT authentication**, dynamic scheduling, and a responsive frontend
+
+> Watch the demo GIF above to see the Clinic System in action
 
 ---
 

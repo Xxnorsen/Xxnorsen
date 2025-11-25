@@ -31,8 +31,6 @@
 - Implements **JWT authentication**, file upload, multi-level approvals
 - Responsive **frontend with React & Vite**  
 
-### Demo Video
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-VEED.io-blue?style=for-the-badge&logo=video)](https://www.veed.io/view/63c58f33-3f65-477a-90aa-b24f1684ac10)
 
 > Click the badge above to watch the project demo on VEED.io
 
